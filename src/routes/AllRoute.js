@@ -1,5 +1,4 @@
 import React from 'react'
-import CreatePage from '../components/CreatePage';
 import { CreatePost, Home, PageNotFound} from '../pages/index';
 import {Routes, Route} from 'react-router-dom'
 import ProtactedRoute from './ProtactedRoute';
